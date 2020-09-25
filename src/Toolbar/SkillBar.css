@@ -1,0 +1,27 @@
+
+
+.color{
+  background-color:#6d56c1
+}
+
+.skillbar_style p{
+  width:100%;
+  font-family: Inconsolata,monospace;
+  font-size: 14px;
+  margin-bottom:10px;
+}
+
+.progress_percentage{
+  float:right;
+}
+
+.skillbar_style .progress{
+  height: 6px;
+  margin-bottom: 30px;
+}
+
+.progress_heading{
+  text-transform: uppercase;
+  font-size:14px;
+  line-height: 20px;
+}

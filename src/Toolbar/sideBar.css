@@ -1,0 +1,31 @@
+.side{
+  position:fixed;
+  width:70%;
+  max-width:400px;
+  height:100%;
+  background-color:white;
+  top:0;
+  z-index:100;
+  box-shadow: 2px 1px;
+  transition:10s ease-in-out;
+}
+
+.clik{
+  transition:10s ease-in ; 
+}
+
+.clik1{
+  transition:10s ease-in ;
+}
+
+.side nav ul li{
+  font-size:2.1rem;
+  color:grey;
+  text-align:center;
+}
+
+.side nav ul li:hover{
+  color:blue;
+  font-size:2.4rem;
+  transition:0.25s ease-in-out;
+}

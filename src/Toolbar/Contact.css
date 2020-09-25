@@ -1,0 +1,144 @@
+.Contact_override{
+  padding-top:60px;
+  padding-bottom:60px;
+ 
+}
+
+.clr{
+   background-image:linear-gradient(130deg,#484EAA,#AF7F97);
+}
+
+.Contact_title{
+  color:white!important;
+  font-size:2.5rem!important;
+  margin-bottom:40px;  
+}
+
+
+.contacts-list{
+  margin-bottom:45px;
+}
+
+.contact_list{
+  line-height:24px;
+  font-size:16px;
+  font-family: Roboto Mono,monospace;
+  color:white;
+}
+
+.contact_list dt{
+  font-weight:700;
+  float:left;
+  text-transform: uppercase;
+}
+.contact_list dd{
+  padding-left:100px;
+  margin-bottom:15px;
+}
+
+.contact_social{
+  font-size:16px;
+  line-height:24px;
+}
+
+.contact_social li{
+  margin-bottom:20px;
+}
+
+.contact_social a{
+    color: #fff;
+    text-decoration: underline;
+    padding: 6px 0;
+    transition: 0.3s;
+}
+
+.contact_form{
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Roboto Mono,monospace;
+  color:white;
+}
+
+.contact_form_title{
+  margin-bottom:20px;
+}
+
+.contact_form input{
+    width: 100%;
+    background-color: transparent;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    padding: 10px;
+    color: #fff!important;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Roboto Mono,monospace;
+}
+
+.contact_form input:focus {
+box-shadow: inset 0 0 5px 0 #fff;
+border: 1px solid #fff;
+outline: none;
+}
+
+.contact_form input:active  {
+box-shadow: inset 0 0 5px 0 #fff;
+border: 1px solid #fff;
+outline: none;
+}
+
+.contact_form input::placeholder{
+  color:white;
+
+}
+
+.contact_form textarea{
+  width: 100%;
+    background-color: transparent;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    padding: 10px;
+    height:115px;
+    color: #fff!important;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Roboto Mono,monospace;
+}
+
+.contact_form ::placeholder{
+  color:white;
+}
+
+.contact_form textarea:focus {
+box-shadow: inset 0 0 5px 0 #fff;
+border: 1px solid #fff;
+outline: none;
+}
+
+.contact_form textarea:active {
+box-shadow: inset 0 0 5px 0 #fff;
+border: 1px solid #fff;
+outline: none;
+}
+
+.contact_form button{
+  width:100%;
+  background-color:#6d56c1;
+  color:white;
+  height:50px;
+  border-radius:50px;
+  font-size:14px;
+  font-weight:600;
+}
+
+.footer{
+  font-size:16px;
+  color:white;
+  line-height:24px;
+  width:100%;
+  text-align:center;
+  top:60px;
+  position:relative;
+  opacity:0.4;
+}
+
